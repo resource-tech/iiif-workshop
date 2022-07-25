@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/technology.json",
+  "type": "AnnotationPage",
+  "label": "Technology",
+  "items": [
+
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow asks for the check.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "982"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A clattering suggests the coffee and tea have arrived and are being handled.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "981,990"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A fan interrupts to tell Walker that her how much she values her story \"To Hell With Dying\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1160,1185"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow thanks the waiter, who perhaps has dropped off the check.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1820"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Faint rustling of paper.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1824,1855"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/environment-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The sounds of Walker opening and signing a book for Gussow.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1862,1875"
+        }
+      }
+    }
+  ]
+}

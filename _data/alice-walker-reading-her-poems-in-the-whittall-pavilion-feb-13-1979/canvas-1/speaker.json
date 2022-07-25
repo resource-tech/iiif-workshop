@@ -1,0 +1,1562 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker seem to speculate that Goldberg read <em>The Color Purple</em> well before being cast in the film adaptation.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23,38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On writing about taboo subjects: \"It's about libertation for me. It's about seeing an area in which people are not free and, having such a strong instinct for freedom and wanting people to have it, that it's almost unbearable to know someone's not having at least the possibility.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113,131"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Did you know that the first woman, Black woman, African woman in South Africa who publicly declared that she had AIDS was stoned to death by her community?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "152,162"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker continues discussing the South African woman who was killed (<a href=\"https://www.nytimes.com/1998/12/28/world/neighbors-kill-an-hiv-positive-aids-activist-in-south-africa.html\">Gugu Dlamini</a>) before saying ultimately she doesn't yet know if this is something she should write about.)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "162,284"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I really do get it, that I've been given something really precious. I have to wait. I have to wait until I really know that it's time to use it. I can't just—and when it's clear that this is for me to do, then I can act.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "248,284"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker sighs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker groans.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "306"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says the \"most painful\" example of people using her is when she is asked to endorse or give blurbs for books: \"Sometimes I feel it's just too much. I can't read all the books. I can't see all the films. I can't respond to all the requests for whatever.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "308,336"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that she replaced a very \"accommodating\" assistant with one who was better able to reject external requests.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "366,353"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she has \"such admiration\" for Oprah Winfrey.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "396,424"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that this interview is part of her book tour (for <em>The Way Forward Is with a Broken Heart</em>). She says she'll do a reading at Barnes and Noble later that evening and then move on to Boston, Seattle, Portland, Los Angeles, and then to the South.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "430,447"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she hasn't decided yet what she'll read at her reading that evening: \"I've just got to wait until I get there and I feel how it feels. Then I'll know.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450,458"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When asked if you can always \"trust the moment\", Walker says: \"Well, it's the only thing you have.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "468,472"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow suggests someone could ask a \"very offensive question\" at the reading, and Walker talks about how she responds in situations like that. She's unable to recall any specific instances when this happened, but says the \"sting of the hostility\" is lessened by her feelings of being aligned with her own principles.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "475,637"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker orders a chamomile tea.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "528,532"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker sighs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "566"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "491"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "494"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On people who ask why she doesn't write \"another <em>The Color Purple</em>\": \"Oh good grief. Why? That's like saying, 'why don't you have another child?' One is plenty.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "647,652"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker discusses her critics: \"most of what they say is so superficial and boring, and it's not about what I'm writing about.\" She does say she enjoys reading good criticism of her work, including that by <a href=\"https://en.wikipedia.org/wiki/Deborah_E._McDowell\">Deborah McDowell</a>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "662"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I don't think critics can help me. I really don't. I feel like I'm really doing the best I can do with what I see my job here to be.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "710,723"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says her \"ancestors really like\" the way she does her work—and they are \"tougher on [her] than critics are. Much.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "730,753"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "739"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I feel very much accountable to literal ancestors, people who have been dead for however long they've been dead. And that to maintain the connection that I feel with them, I have to maintain a certain level of, I don't know, commitment, fidelity, truth.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "770,810"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"How painful it is to realize that you're just almost completely misunderstood.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "834"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "852"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker discusses how criticism claiming she hates Black men or that her writing mistreats Black men has led to her being \"cut off from a generation of young Black men\": And I think this is a tragedy because reading me could've helped them. And I know it.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "834,975"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker mentions her support for <a href=\"https://en.wikipedia.org/wiki/Mumia_Abu-Jamal\">Mumia Abu-Jamal</a> and theorizes it has helped repair her image for Black men.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "948,975"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she did not watch the debate last night (presumably <a href=\"https://www.debates.org/voter-education/debate-transcripts/october-11-2000-debate-transcript/\">the presidential debate</a>).",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "990"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker calls George W. Bush \"a madman\" for his stance on the death penalty.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1024"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker expresses support for Green Party candidates Ralph Nader and Winona LaDuke to be \"heard\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1046"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Imagine what it would be like, just to have ideas that are different and views that are different... and we're desperate for it. We deserve better. We deserve to hear all kinds of views. We're very varied as a country.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1073,1090"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker makes a sound of frustration.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1092"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker continues voicing support for Ralph Nader.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1098,1139"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"All those people who really think we're living in a democracy!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1141"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker expresses some support for Al Gore.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1151"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On being interrupted by a fan: \"I get it often; I'm so glad—I love to see—I even feel like I can identify, maybe it's just because they come up to me, but sometimes I feel I can tell the people who've read my work because they seem a little freer. They seem a little less burdened by the crap. And I like that.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1185,1210"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow brings up another interview Walker gave to <a href=\"https://en.wikipedia.org/wiki/Eleanor_Wachtel\">Eleanor Wachtel</a>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1252"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Many people are unable to face their identity, especially as it changes. It's not fixed; it changes. So you're asked to continually reassess what it is.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1289,1302"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When asked to describe herself: \"Well, a few of the things I know about myself is that I'm tri-racial—African American, Native American, and Euro, you know the Scotch-Irish part—probably tri-spiritual as well. I was raised as a Christian and now I love Buddhism and I love earth religion... and I also love both women and men. And trees.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1305,1364"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1364"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I think one of the reasons that I love Buddhism is because one of its primary observations is that there is no self... we think there's a self... what you think of as yourself is always changing.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1378,1397"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"The way other people see you, the way they need to classify you—people, unfortunately, just get stuck there, trying to pin down something that's really always moving.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1406,1418"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I love watching myself change.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1426"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker describes the significance of dreams as a signal to expand or grow: \"You will start to dream about houses, and you'll be in a house, and suddenly you'll go through a door and there'll be a couple rooms you never knew you had in your house.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1438,1500"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1466"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker insists her dream interpretations are not Freudian.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1481"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1506"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker shares that she is reading a book by her \"dharma teacher\" Jack Kornfield (<em>After the Ecstasy, the Laundry</em>).",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1583"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1599"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker confirms that she sent her ex-husband a copy of <em>The Way Forward Is with a Broken Heart</em> before it was published: \"He loved it. Poor thing.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1626,1636"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1637"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that both her marriage and her friendship with her ex-husband ended—\"and that's the hard part.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1658,1735"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When we were married, his mother sat shiva.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1675"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker sighs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1740"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says that her ex-husband adopted the speaking mannerisms of Mississippians.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1762,1783"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker briefly talks about her time at Sarah Lawrence College and how it was good for her writing to be among writers but isolating and difficult as a poor student.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1790,1818"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker agrees to sign a book for Gussow.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1858"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker discuss a book Gussow published recently, <em>Edward Albee: A Singular Journey</em>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1908,2002"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker confesses to being misunderstood by her family in childhood.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she'll look for Gussow's book because she would like to read it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2015"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker and Gussow continue discussing Edward Albee and his work.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2018,2042"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker expresses that she \"tend[s] to be more trusting of\" work that has more of a basis in the author's biographic circumstances.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2043,2062"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"It really is entrusted to you. I often marvel at the fact that I, coming from this little place in the countryside of Georgia, should actually end up at Sarah Lawrence as the place where I would start learning my craft. How is that? Surely I'm then expected by somebody who's all around me to do something wtih that. Not to honor this passage, gosh, I don't think I would've made it.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2062,2110"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker compares Sarah Lawrence and Spelman: \"At Sarah Lawrence with Muriel Rukeyser, Jane Cooper, and all those people... it just felt more like home in that way. And they weren't afraid of my strangeness, whatever it was.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2113,2295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When I got to Sarah Lawrence, I realized everyone was already really what they were going to be. The painters were painting, the writers were writing, the dancers were dancing, the singers were singing.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2205,2218"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker describes her relaitonship with Muriel Rukeyser.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2232,2285"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well I enjoyed this very much more than I thought I would.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2308"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2311"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker mentions her experience interviewing Coretta Scott King after the assassination of Martin Luther King, Jr. She recalls that her recorder didn't work and that she also inadvertently offended King by asking about her husband's talent at dancing.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2331"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker sighs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2340"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow tells Walker about a recently published book, <em>Einstein in Love</em>, which details his many romantic relationships: \"Now we know why his hair was always messed up.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2420,2460"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas/speaker-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2455"
+        }
+      }
+    }
+  ]
+}
