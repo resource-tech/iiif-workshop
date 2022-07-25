@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Alice Walker reading her poems in the Whittall Pavilion, Feb. 13, 1979" ] },
+    "homepage": [
+      {
+        "id": "https://loc.gov/item/91740729",
+        "type": "Text",
+        "label": { "en": [ "Alice Walker reading her poems in the Whittall Pavilion, Feb. 13, 1979" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://loc.gov/",
+        "type": "Agent",
+        "label": { "en": [ "gov" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 52;45,
+        "items": [
+          {
+            "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://tile.loc.gov/storage-services/service/gdc/gdcarpl/gdcarpl-1614388/1614388-3-1.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 52;45
+                },
+                "target": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
