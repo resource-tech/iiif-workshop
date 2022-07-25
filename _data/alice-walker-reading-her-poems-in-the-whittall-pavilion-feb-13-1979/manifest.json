@@ -15,14 +15,14 @@
       {
         "id": "https://loc.gov/",
         "type": "Agent",
-        "label": { "en": [ "gov" ] }
+        "label": { "en": [ "library of congress" ] }
       }
     ],
     "items": [
       {
         "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 52;45,
+        "duration": 3165.0,
         "items": [
           {
             "id": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/paintings",
@@ -36,7 +36,7 @@
                   "id": "https://tile.loc.gov/storage-services/service/gdc/gdcarpl/gdcarpl-1614388/1614388-3-1.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 52;45
+                    "duration": 3165.0
                 },
                 "target": "https://sunyanling123.github.io/iiif-workshop/alice-walker-reading-her-poems-in-the-whittall-pavilion-feb-13-1979/canvas-1/canvas"
               }
